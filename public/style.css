@@ -83,4 +83,26 @@ color: greenyellow;
     color: greenyellow;
     padding-left: 10px;
   }
+  footer{
+    background-color: black;
+    color: greenyellow;
+    font-size: 12px;
+    
+    
+  }
+
+  .lateral2{
+    color: greenyellow;
+  }
+  .lateral2{
+    padding-left: 10px; 
+   
+    
+  }
  
+  .lateral2 form{
+    margin-top: 15px;
+  }
+  .lateral h3{
+    margin-top: 10px;
+  }
